@@ -1,0 +1,1 @@
+# visualt-studio-git-ignore-file
